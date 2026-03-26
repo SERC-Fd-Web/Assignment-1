@@ -6,7 +6,7 @@ This repository is configured to run in a GitHub Codespace. A Codespace is a clo
 
 ### Services Installed
 
-- **PHP**: PHP (8.2) is installed for running web applications.
+- **PHP**: PHP (8.3) is installed for running web applications.
 - **MariaDB**: A MySQL-compatible database server for storing data. This is installed as a docker container.
 - **phpMyAdmin**: A web-based database management tool for managing MariaDB. This is installed as a docker container.
 
