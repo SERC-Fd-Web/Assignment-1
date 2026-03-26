@@ -1,5 +1,5 @@
 {
-    "github.copilot.chat.customAgents.showOrganizationAndEnterpriseAgents": true,
+    "github.copilot.chat.organizationCustomAgents.enabled": true,
     "editor.inlineSuggest.enabled": false,
     "github.copilot.inlineSuggest.enable": false,
 }
